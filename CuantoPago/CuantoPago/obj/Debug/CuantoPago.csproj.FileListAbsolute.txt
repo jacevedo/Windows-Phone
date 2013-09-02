@@ -1,0 +1,14 @@
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Debug\CuantoPago.dll
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Debug\CuantoPago.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Debug\CuantoPago.xap
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\CuantoPago.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\CuantoPago.dll
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\CuantoPago.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\PaginaPrincipal.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\CalcularVuelto.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\CantidadPago.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Debug\SiguienteVuelto.g.cs

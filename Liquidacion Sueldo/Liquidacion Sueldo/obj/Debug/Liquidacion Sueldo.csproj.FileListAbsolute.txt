@@ -1,0 +1,15 @@
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\ApplicationIcon.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\Background.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\Liquidacion Sueldo.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\Liquidacion Sueldo.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\AppManifest.xaml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\Bin\Debug\Liquidacion_Sueldo.xap
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Liquidacion Sueldo.csprojResolveAssemblyReference.cache
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\App.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Liquidacion.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\MainPage.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Liquidacion Sueldo.g.resources
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Liquidacion Sueldo.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Liquidacion Sueldo.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\XapCacheFile.xml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Liquidacion Sueldo\Liquidacion Sueldo\obj\Debug\Configuraciones.g.cs

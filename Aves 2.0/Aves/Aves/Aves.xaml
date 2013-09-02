@@ -1,0 +1,68 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Aves.Aves"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Margin="0">
+        <!--Control Pivot-->
+        <controls:Pivot Title="" Name="tituloAve" Foreground="#FFC77B31" >
+            <!--Elemento Pivot uno-->
+            <controls:PivotItem Header="Ficha">
+                <ScrollViewer  VerticalScrollBarVisibility="Auto" Height="593" >
+                    <StackPanel  Name="contentFicha" Background="#FFC77B31"  >
+                        <Button Name="btnReproducirSonido" Content="Escuchar Canto" Click="btnReproducirSonido_Click"  Foreground="White" BorderBrush="White" Background="#FFC77B31" />
+                        <TextBlock Text="" TextWrapping="Wrap" />
+
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            <!--Elemento Pivot dos-->
+            <controls:PivotItem Header="Datos" BorderBrush="#FFC77B31">
+                <ScrollViewer  VerticalScrollBarVisibility="Auto" Height="593">
+                    <StackPanel Name="contentDatos" Background="#FFC77B31">
+
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem>
+       
+        </controls:Pivot>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Aves;component/Images/Aves.png" />
+        </Grid.Background>
+    </Grid>
+</phone:PhoneApplicationPage>

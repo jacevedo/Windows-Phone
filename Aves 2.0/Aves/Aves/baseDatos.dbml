@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="baseDatosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="AvesBD">
+    <Type Name="AvesBD">
+      <Column Name="id" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idHabitat" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Ficha" Type="System.String" CanBeNull="false" />
+      <Column Name="urlSonido" Type="System.String" CanBeNull="false" />
+      <Column Name="Datos" Type="System.String" CanBeNull="false" />
+      <Column Name="nomAve" Type="System.String" CanBeNull="false" />
+      <Association Name="HabitatDB_AvesBD" Member="HabitatDB" ThisKey="idHabitat" OtherKey="id" Type="HabitatDB" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="" Member="HabitatDB">
+    <Type Name="HabitatDB">
+      <Column Name="id" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nom_Habitat" Type="System.String" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" CanBeNull="false" />
+      <Association Name="HabitatDB_AvesBD" Member="AvesBD" ThisKey="id" OtherKey="idHabitat" Type="AvesBD" />
+    </Type>
+  </Table>
+  <Table Name="" Member="PorqueDB">
+    <Type Name="PorqueDB">
+      <Column Name="id" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" CanBeNull="false" />
+      <Column Name="nomPor" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,15 @@
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Release\CuantoPago.dll
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Release\CuantoPago.pdb
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Release\AppManifest.xaml
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\Bin\Release\CuantoPago.xap
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\App.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CalcularVuelto.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CantidadPago.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\MainPage.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\PaginaPrincipal.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\SiguienteVuelto.g.cs
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CuantoPago.g.resources
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CuantoPago.dll
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CuantoPago.pdb
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\XapCacheFile.xml
+C:\Users\Jaime\documents\visual studio 2012\Projects\CuantoPago\CuantoPago\obj\Release\CuantoPago.csprojResolveAssemblyReference.cache

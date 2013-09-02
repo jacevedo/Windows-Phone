@@ -1,0 +1,71 @@
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.csprojResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ApplicationIcon.png
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Background.png
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.dll
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.xap
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.dll
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ApplicationIcon.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Background.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\AppManifest.xaml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\FarmaciaTurno.xap
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\App.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\Farmacias.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\MainPage.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.g.resources
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\FarmaciaTurno.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\System.Xml.XPath.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\de\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\es\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\fr\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\it\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ja\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ko\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ru\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\FarmaciaTurno\FarmaciaTurno\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll

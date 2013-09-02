@@ -1,4 +1,4 @@
 AppsFundacionChile
 ==================
 
-Mis app de EducarChile
+Mis app en fundacion chile

@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="TuLatLong.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="BUSCA TU APLICACION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="28">
+            	<Run Text="Presiona "/>
+            	<Run Text="el"/>
+            	<Run Text=" boton y ve tu"/>
+            	<Run Text=" "/>
+            	<Run Text="posicion"/>
+            </TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Column="0" Grid.Row="0" Text="Latitud"/>
+            <TextBlock Grid.Column="0" Grid.Row="1" Text="Longitud"/>
+            <TextBlock Grid.Column="1" Grid.Row="0" Name="txtLatitud"/>
+            <TextBlock Grid.Column="1" Grid.Row="1" Name="txtLongitud"/>
+            <TextBlock Grid.Column="0" Grid.Row="2" Text="Altitud"/>
+            <TextBlock Grid.Column="1" Grid.Row="2" Name="txtAltitud"/>
+            <Button Click="Button_Click" Content="Buscar Mi Posicion" Grid.Row="3" Grid.ColumnSpan="2" Height="135" Name="btnBuscar"/>
+        </Grid>
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Click="ApplicationBarMenuItem_Click" Text="Política de Privacidad"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

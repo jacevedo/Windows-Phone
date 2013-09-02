@@ -1,0 +1,89 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Vocales.Letras.LetraO"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+	
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Canvas x:Name="LayoutRoot" Background="Transparent">
+        <Canvas.Resources>
+            <Storyboard x:Name="Ojos">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgOjos">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-20.829"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="23.477"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.034"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Oso">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgOso">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.077"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-19.631"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="31.933"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.094"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Extintor">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgExtintor">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.044"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-35.877"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="28.154"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.303"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Pollito">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgPollito">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.085"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-31.395"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="34.306"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.168"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Ampolleta">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgAmpolleta">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="-0.355"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-25.122"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="34.098"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.013"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+        </Canvas.Resources>
+    	<Image  x:Name="imgAmpolleta" Height="223" Canvas.Left="250" Source="/imagenes/LetraO/ampolleta.png" Stretch="Fill" Canvas.Top="222" Width="200" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+        <Image  x:Name="imgExtintor" Height="205" Canvas.Left="304" Source="/imagenes/LetraO/extintor.png" Stretch="Fill" Canvas.Top="543" Width="184" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+        <Image  x:Name="imgOjos" Height="128" Canvas.Left="11" Source="/imagenes/LetraO/ojo.png" Stretch="Fill" Canvas.Top="31" Width="469" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+        <Image  x:Name="imgOso" Height="226" Canvas.Left="4" Source="/imagenes/LetraO/Oso.png" Stretch="Fill" Canvas.Top="542" Width="270" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+        <Image x:Name="imgPollito" Height="175" Canvas.Left="21" Source="/imagenes/LetraO/index_pollito.png" Stretch="Fill" Canvas.Top="312" Width="200" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+        
+    </Canvas>
+
+</phone:PhoneApplicationPage>

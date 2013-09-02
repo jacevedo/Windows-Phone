@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D75BB86-AE39-42CF-B167-7CD0D42088A1}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aves</RootNamespace>
+    <AssemblyName>Aves</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Aves.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Aves.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AvesClass.cs" />
+    <Compile Include="Aves.xaml.cs">
+      <DependentUpon>Aves.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="baseDatos.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>baseDatos.dbml</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="HabitatClass.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Habitat.xaml.cs">
+      <DependentUpon>Habitat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Porque.xaml.cs">
+      <DependentUpon>Porque.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PorqueClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Aves.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Habitat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Porque.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="baseDatos.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>baseDatos.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\home.png" />
+    <Resource Include="Images\habitat.png" />
+    <Resource Include="Images\porqe.png" />
+    <Resource Include="Images\Aves.png" />
+    <Resource Include="Images\boton.png" />
+    <Content Include="Library\Microsoft.Phone.Controls.Toolkit.dll" />
+    <Content Include="sonidos\aguila.mp3" />
+    <Content Include="sonidos\bandurria.mp3" />
+    <Content Include="sonidos\becacina.mp3" />
+    <Content Include="sonidos\caiquen.mp3" />
+    <Content Include="sonidos\caiti.mp3" />
+    <Content Include="sonidos\carpinteronegro.mp3" />
+    <Content Include="sonidos\cernicalo.mp3" />
+    <Content Include="sonidos\chercan.mp3" />
+    <Content Include="sonidos\chincol.mp3" />
+    <Content Include="sonidos\chorlito.mp3" />
+    <Content Include="sonidos\choroy.mp3" />
+    <Content Include="sonidos\chucao.mp3" />
+    <Content Include="sonidos\chuncho.mp3" />
+    <Content Include="sonidos\churrin.mp3" />
+    <Content Include="sonidos\cisne_coscoroba.mp3" />
+    <Content Include="sonidos\cisne_cuello_negro.mp3" />
+    <Content Include="sonidos\codorniz.mp3" />
+    <Content Include="sonidos\comesebo_tamarugal.mp3" />
+    <Content Include="sonidos\cometocino_norte.mp3" />
+    <Content Include="sonidos\cometocino_patagonico.mp3" />
+    <Content Include="sonidos\concon.mp3" />
+    <Content Include="sonidos\condor_andes.mp3" />
+    <Content Include="sonidos\cotorra.mp3" />
+    <Content Include="sonidos\diuca.mp3" />
+    <Content Include="sonidos\fiofio.mp3" />
+    <Content Include="sonidos\garza.mp3" />
+    <Content Include="sonidos\gaviota_andina.mp3" />
+    <Content Include="sonidos\gaviota_dominicana.mp3" />
+    <Content Include="sonidos\gaviota_franklin.mp3" />
+    <Content Include="sonidos\gaviota_garuma.mp3" />
+    <Content Include="sonidos\golondrina.mp3" />
+    <Content Include="sonidos\huala.mp3" />
+    <Content Include="sonidos\huedhued_sur.mp3" />
+    <Content Include="sonidos\jilguero.mp3" />
+    <Content Include="sonidos\loica.mp3" />
+    <Content Include="sonidos\martin_pescador.mp3" />
+    <Content Include="sonidos\minero_cordillerano.mp3" />
+    <Content Include="sonidos\paloma_alasblancas.mp3" />
+    <Content Include="sonidos\parina_grande.mp3" />
+    <Content Include="sonidos\pato_jergon.mp3" />
+    <Content Include="sonidos\pato_juarjual.mp3" />
+    <Content Include="sonidos\pato_real.mp3" />
+    <Content Include="sonidos\pequen.mp3" />
+    <Content Include="sonidos\perdicita_cojon.mp3" />
+    <Content Include="sonidos\perdicita_cordillerana.mp3" />
+    <Content Include="sonidos\perrito.mp3" />
+    <Content Include="sonidos\picaflor.mp3" />
+    <Content Include="sonidos\piden.mp3" />
+    <Content Include="sonidos\pinguino.mp3" />
+    <Content Include="sonidos\pitio.mp3" />
+    <Content Include="sonidos\piuquen.mp3" />
+    <Content Include="sonidos\pizarrita.mp3" />
+    <Content Include="sonidos\queltehue.mp3" />
+    <Content Include="sonidos\rara.mp3" />
+    <Content Include="sonidos\rayadito.mp3" />
+    <Content Include="sonidos\rayador.mp3" />
+    <Content Include="sonidos\sietecolores.mp3" />
+    <Content Include="sonidos\tagua_frente_roja.mp3" />
+    <Content Include="sonidos\tagua_gigante.mp3" />
+    <Content Include="sonidos\tenca.mp3" />
+    <Content Include="sonidos\tiuque.mp3" />
+    <Content Include="sonidos\torcaza.mp3" />
+    <Content Include="sonidos\tortola.mp3" />
+    <Content Include="sonidos\traro.mp3" />
+    <Content Include="sonidos\tricahue.mp3" />
+    <Content Include="sonidos\turca.mp3" />
+    <Content Include="sonidos\yeco.mp3" />
+    <Content Include="sonidos\zarapito.mp3" />
+    <Content Include="sonidos\zorzal.mp3" />
+    <Content Include="sonidos\zorzal_negro.mp3" />
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="baseDatos.dbml.layout">
+      <DependentUpon>baseDatos.dbml</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

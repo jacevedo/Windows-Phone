@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="baseDatos">
+  <DataContextMoniker Name="/baseDatosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8c063d32-267b-4797-bfc4-c9df1b1a0fff" absoluteBounds="4.5, 0.5, 2, 1.1939925130208331">
+      <DataClassMoniker Name="/baseDatosDataContext/Torneos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01957648-7c3c-46cc-9766-4fd37824c0cf" absoluteBounds="4.5150000000000006, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd373ee9-4d7e-4179-97be-3301e61362bb" absoluteBounds="1.25, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/baseDatosDataContext/Participantes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="16829500-c26c-4b39-8d08-a14972112ea8" absoluteBounds="1.2650000000000006, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c837ac07-13c9-40e9-bbb4-870a2a8c3d0a" absoluteBounds="4.125, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/baseDatosDataContext/Resultados" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6760ad90-6f4b-484a-a287-c68f9c362798" absoluteBounds="4.14, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

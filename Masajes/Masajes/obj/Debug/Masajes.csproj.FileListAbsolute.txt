@@ -1,0 +1,28 @@
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\ApplicationIcon.png
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\Background.png
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.xap
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.csprojResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime\documents\visual studio 2012\Projects\Masajes\Masajes\obj\Debug\Ventana2.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\ApplicationIcon.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\Background.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\AppManifest.xaml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\Bin\Debug\Masajes.xap
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\App.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\MainPage.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\Ventana2.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.g.resources
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\Masajes.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\Masajes\Masajes\obj\Debug\XapCacheFile.xml

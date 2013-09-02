@@ -1,0 +1,13 @@
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\ApplicationIcon.png
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\Background.png
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\Calculadora.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\Calculadora.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\Bin\Debug\Calculadora.xap
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\XapCacheFile.xml

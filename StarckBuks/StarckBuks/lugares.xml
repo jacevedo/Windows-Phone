@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+<marker lat="-33.403742" lng="-70.790449" label="Aeropuerto Internacional" id="1" Barrio="Aeropuerto" Desc="Sala Embarque Internacionacional" TipoBarrio="1" Seleccion="0" MostrarSoloTrabaja="0">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Aeropuerto Internacional</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/AeropuertoInternacional.gif" alt="Aeropuerto Internacional"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Aeropuerto Internacional Arturo Merino Benitez.</b><br /> Sala Embarque Internacionacional de Pasajeros C-156. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo Las 24:00hs.<br /> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.403742" lng="-70.790449" label="Aeropuerto Nacional" id="2" Barrio="Aeropuerto" Desc="Sala Embarque Nacional" TipoBarrio="1" Seleccion="1">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Aeropuerto Nacional</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/AeropuertoNacional.gif" alt="Aeropuerto Nacional"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Aeropuerto Internacional Arturo Merino Benitez.</b><br /> Sala Embarque Nacional de Pasajeros B-215. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo Las 24:00hs.<br /> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.440972" lng="-70.652891" label="Agustinas Bandera" id="3" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="2">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Agustinas Bandera</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Agustinas.gif" alt="Agustinas Bandera"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Agustinas 1161.</b><br /> Santiago Centro. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a viernes 7:00hs a 21:00hs.<br /> Sabado 08:30hs a 17:30hs.<br /> Domingo Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.401289" lng="-70.597694" label="Alonso de Cordova" id="4" Barrio="Vitacura" Desc="" TipoBarrio="11" Seleccion="4">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Alonso de Cordova</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/AlonsoDeCordoba.gif" alt="Alonso de Cordova"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Alonso de Cordova 2894.</b><br /> Vitacura. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:00hs<br /> Sábados y Domingos 9:00hs a 21:00hs<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.390773" lng="-70.545938" label="Alto Las Condes" id="5" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="7">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Alto Las Condes</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/AltoLasCondes.gif" alt="Alto Las Condes"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Kennedy 9001.</b><br /> Loc. 2164, Mall Alto Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 8:00hs a 22:00hs.<br /> Sábados y Domingos 10:00hs a 22:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 8:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 8:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.416501" lng="-70.59532" label="Apoquindo - Hendaya" id="6" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="8">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Apoquindo - Hendaya</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Apoquindo.gif" alt="Apoquindo - Hendaya"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Apoquindo 3575 C.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:00hs a 21:00hs.<br /> Sábados de 9:00hs a 19:00hs.<br /> Domingos Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.481785" lng="-70.752661" label="Arauco Maipú" id="7" Barrio="Maipú" Desc="" TipoBarrio="7" Seleccion="19">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Arauco Maipú</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/AraucoMaipu.gif" alt="Arauco Maipú"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Américo Vespucio 399.</b><br /> Loc. 321 y 323, Mall Arauco Maipú. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Domingos a Jueves de 10:00hs a 21:30hs.<br /> Viernes y Sábados de 10:00hs a 22:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 10:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 10:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.4424" lng="-70.651317" label="Ariztia" id="8" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="19">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Ariztia</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Ariztia.jpg" alt="Ariztia"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>New York 52-54</b><br /> Dpto B3 (entrada por La Bolsa), Santiago Centro </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viermes 7:00hs a 21:00hs <br /> Sábados 9:00hs a 17:00hs <br /> Domingos Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.451195" lng="-70.661767" label="Barrio Universitario" id="9" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="19">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Barrio Universitario</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/BarrioUniversitario.jpg" alt="Barrio Universitario"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Vergara 324.</b><br /> Santiago. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br />  Lunes a Viernes de 08:00hs a 22:00hs.<br /> Sábados de 09:00hs a 17:00hs.<br /> Domingos Cerrado.<br /> <!--Lunes a Viernes 8:00 hs a 20:00 hs.<br /> Sábados y Domingos cerrado<br />--> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.419366" lng="-70.598096" label="Callao" id="10" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="9">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Callao</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Callao.gif" alt="Callao"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Callao 2912.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 21:00hs.<br /> Sábados y Domingos 9:00hs a 20:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 20:00hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 20:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.37273" lng="-70.517968" label="Camino de Asis" id="11" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="10">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Camino de Asis</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/CaminoDeAsis.gif" alt="Camino de Asis"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Las Condes 12340.</b><br /> Local 3, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 20:30hs.<br /> Sábados 08:30hs a 20:30hs.<br /> Domingos 09:30hs a 20:30hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.389152" lng="-70.61817" label="Ciudad Empresarial" id="12" Barrio="Huechuraba" Desc="" TipoBarrio="2" Seleccion="20">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Ciudad Empresarial</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/CiudadEmpresarial.gif" alt="Ciudad Empresarial"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. El Parque 4860.</b><br /> Loc. 1 Ciudad Empresarial, Huechuraba. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 20:30hs.<br /> Sábado y Domingo Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.38392" lng="-70.530317" label="Clinica Las Condes" id="13" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="20">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Clinica Las Condes</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/ClinicaLasCondes.jpg" alt="Clinica Las Condes"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Lo Fontecilla 441.</b><br /> Las Condes (dentro Clínica Las Condes) </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo las 24:00hs.<br /> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.423967" lng="-70.58042" label="Colón" id="14" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="11">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Colón</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Colon.gif" alt="Colón"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Cristobal Colón 4289.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 07:00hs a 21:30hs<br /> Sábados y Domingos de 08:30hs a 21:30hs<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:30hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 21:30hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.411351" lng="-70.603005" label="Costanera" id="15" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="12">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Costanera</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Costanera.gif" alt="Costanera"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Andrés Bello 2777.</b><br /> Loc.1A, Edificio Las Industrias, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:00hs a 20:30hs.<br /> Sábados y Domingos Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.411351" lng="-70.603005" label="Costanera Center" id="16" Barrio="Providencia" Desc="" TipoBarrio="8" Seleccion="12">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Costanera Center</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/CostaneraCenter.jpg" alt="Costanera Center"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Andrés Bello 2465.</b><br /> local 1150, Providencia. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a viernes 07:00hs a 22:00hs<br /> Sabado Domingos y festivos de 08:30 a 22:00.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs.<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 07:00hs a 19:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.439544" lng="-70.662721" label="Espacio M" id="17" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="12">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Espacio M</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/EspacioM.jpg" alt="Espacio M"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Compañía 1214.</b><br /> Loc 112, Santiago, Centro. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:00hs a 21:00hs.<br /> Sábados y Domingos de 08:30hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.510601" lng="-70.608273" label="Florida Center" id="18" Barrio="La Florida" Desc="" TipoBarrio="3" Seleccion="21">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Florida Center</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/FloridaCenter.gif" alt="Florida Center"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Vicuña Mackenna 6100.</b><br /> Loc. 2095, La Florida. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo de 10:00hs a 22:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 10:00hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 10:00hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.439651" lng="-70.651113" label="Huérfanos" id="19" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="21">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Huérfanos</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Huerfanos.jpg" alt="Huérfanos"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Huerfanos 1016.</b><br /> Local 4, Santiago Centro </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 07:00hs a 21:00hs.<br /> Sábados y Domingos de 09:00hs a 17:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 18:00hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 18:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.440435" lng="-70.645936" label="Interamericana" id="20" Barrio="Santiago Centro" Desc="" TipoBarrio="9" Seleccion="3">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Interamericana</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Interamericana.gif" alt="Interamericana"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Agustinas 640.</b><br /> Loc. 7, Santiago Centro. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:00hs a 21:00hs.<br /> Sábados de 9:00hs a 18:00hs.<br /> Domingos Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 18:00hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 18:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.413496" lng="-70.593789" label="Isidora - Magdalena" id="21" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="13">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Isidora - Magdalena</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Magdalena.gif" alt="Isidora - Magdalena"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Magdalena 140.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 21:30hs.<br /> Sabados y Domingos 9:00hs a 21:30hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:30hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 21:30hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.413841" lng="-70.600049" label="Isidora - San Sebastian" id="22" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="14">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Isidora - San Sebastian</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Isidora.gif" alt="Isidora - San Sebastian"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>San Sebastián 2946.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:00hs.<br /> Sábados 8:30hs a 21:00hs.<br /> Domingos 8:30hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:30hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:30hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.42469" lng="-70.615729" label="La Concepción" id="23" Barrio="Providencia" Desc="" TipoBarrio="8" Seleccion="23">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>La Concepción</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/LaConcepcion.gif" alt="La Concepción"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>La Concepción 128.</b><br /> Loc. 1, Providencia. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 21:00hs.<br /> Sábados 8:30 hrs a 19:30hs.<br /> Domingo Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.438687" lng="-70.561886" label="La Reina" id="24" Barrio="La Reina" Desc="" TipoBarrio="4" Seleccion="26">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>La Reina</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/LaReina.gif" alt="La Reina"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Principe de Gales 6803.</b><br /> La Reina. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 22:00hs.<br /> Sábados y Domingos 8:30hs a 21:30hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:30hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 21:30hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.38054" lng="-70.570598" label="Luis Pasteur" id="25" Barrio="Vitacura" Desc="" TipoBarrio="11" Seleccion="5">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Luis Pasteur</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/LuisPasteur.gif" alt="Luis Pasteur"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Luis Pasteur 6666.</b><br /> Loc. E, Vitacura. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:00hs.<br /> Sábados y Domingos 9:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.423255" lng="-70.609254" label="Lyon" id="26" Barrio="Providencia" Desc="" TipoBarrio="8" Seleccion="24">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Lyon</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Lyon.gif" alt="Lyon"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Ricardo Lyon 172.</b><br /> Loc. 1, Providencia. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 21:30hs.<br /> Sábados y Domingos 08:30hr a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.397926" lng="-70.571221" label="Manquehue Norte" id="27" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="31">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Manquehue Norte</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Manquehue.j
+]]>
+<![CDATA[
+pg" alt="Manquehue Norte"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Manquehue Norte 457.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 08:00hs a 22:00hs.<br /> Sábados y Domingos de 09:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 08:00hs a 19:00hs<br > Martes 25 cerrar<br > Lunes 31 de 08:00hs a 19:00hs<br > Martes 01 cerrar<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.009131" lng="-71.548473" label="Marina Arauco" id="28" Barrio="Viña del Mar" Desc="" TipoBarrio="10" Seleccion="31">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Marina Arauco</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/MarinaArauco.jpg" alt="Marina Arauco"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>14 Norte 880.</b><br /> Local 7, Boulevard Marina Arauco, Viña del Mar. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Jueves de 08:00hs a 21:00hs.<br /> Viernes de 08:00hs a 21:30hs.<br /> Sábados de 08:30hs a 21:30hs.<br /> Domingos de 09:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 08:00hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 08:00hs a 19:00hs<br > Martes 01 de 12:00hs a 19:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.389362" lng="-70.546255" label="Mirador del Alto" id="29" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="15">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Mirador del Alto</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/MiradorDelAlto.gif" alt="Mirador del Alto"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Kennedy 9001.</b><br /> Loc 3225, Mall Alto Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Jueves 8:30hs a 22:00hs.<br /> Viernes 8:30hs a 24:00hs.<br /> Sábabdos 10:00hs a 24:00hs.<br /> Domingos 10:00hs a 22:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 08:30hs a 19:00hs<br > Martes 25 cerrado<br > Lunes 31 de 08:30hs a 19:00hs<br > Martes 01 cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.394278" lng="-70.597101" label="Nueva Costanera" id="30" Barrio="Vitacura" Desc="" TipoBarrio="11" Seleccion="6">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Nueva Costanera</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/NuevaCostanera.gif" alt="Nueva Costanera"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Nueva Costanera 4177.</b><br /> Loc. 4, Vitacura. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:30hs.<br /> Sábados y Domingos 9:30hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.405107" lng="-70.57636" label="Nueva Las Condes" id="31" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="16">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Nueva Las Condes</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/NuevaLasCondes.gif" alt="Nueva Las Condes"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Presidente Riesco 5333.</b><br /> Loc. 102, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:00hs.<br /> Sábados y Domingos de 9:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<!-- HAstas aca los horarios y mapas -->
+<marker lat="-33.401298" lng="-70.578827" label="Parque Arauco" id="32" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="17">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Parque Arauco</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/ParqueArauco.gif" alt="Parque Arauco"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Kennedy 5413.</b><br /> Local 366, Mall Parque Arauco, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br />  Lunes a Miercoles 8:30hs a 23:00hs.<br /> Jueves 8:30hs a 24:00hs.<br /> Viernes 8:30hs a 01:00hs.<br /> Sábados 9:00hs a 01:00hs.<br /> Domingo 9:00hs a 23:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 8:30hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 8:30hs a 19:00hs<br > Martes 01 de 10:00hs a 23:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.423324" lng="-70.612717" label="Pedro de Valdivia" id="33" Barrio="Providencia" Desc="" TipoBarrio="8" Seleccion="25">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Pedro de Valdivia</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/PedroDeValdivia.gif" alt="Pedro de Valdivia"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av .Pedro de Valdivia 27.</b><br /> Providencia. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:00hs a 21:30hs.<br /> Sábados y Domingo de 8:30hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:00hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.394396" lng="-70.515752" label="Plaza San Carlos" id="34" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="22">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Plaza San Carlos</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/PlazaSanCarlos.jpg" alt="Plaza Vespucio"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Camino Las Flores 12640</b><br /> L1, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 07:30hs a 20:30hs.<br /> Sábados y Domingos de 08:30hs a 20:30hs.<br /> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.517906" lng="-70.598726" label="Plaza Vespucio" id="35" Barrio="La Florida" Desc="" TipoBarrio="3" Seleccion="22">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Plaza Vespucio</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/PlazaVespucio.gif" alt="Plaza Vespucio"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. Vicuña Mackenna Oriente 7110.</b><br /> Loc. 124-125, La Florida. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo de 10:00hs a 21:30hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 10:00hs a 19:00hs<br > Martes 25 Cerrado.<br > Lunes 31 de 10:00hs a 19:00hs<br > Martes 01 Cerrado<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.357609" lng="-70.515492" label="Portal La Dehesa" id="36" Barrio="Lo Barnechea" Desc="" TipoBarrio="6" Seleccion="27">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Portal La Dehesa</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/PortalLaDehesa.gif" alt="Portal La Dehesa"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>La Dehesa 1445.</b><br /> Local 1110 Mall Portal La Dehesa, Lo Barnechea. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes 7:30hs a 21:00hs.<br /> Sábados y Domingos 9:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br > Martes 25 de 10:00hs a 21:00hs<br > Lunes 31 de 07:30hs a 19:00hs<br > Martes 01 de 10:00hs a 21:00hs<br >--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.465208" lng="-70.598209" label="Portal Ñuñoa" id="37" Barrio="Ñuñoa" Desc="" TipoBarrio="12" Seleccion="27">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Portal Ñuñoa</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/PortalNunoa.jpg" alt="Portal Ñuñoa"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Avda. José Pedro Alessandri 1166.</b><br /> Loc. 3004, Ñuñoa. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Domingo 8:30hs a 22:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 08:30hs a 19:00hs<br /> Martes 25 de 10:00hs a 21:00hs<br /> Lunes 31 de 08:30hs a 19:00hs<br /> Martes 01 de 10:00hs a 21:00hs<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.405436" lng="-70.573339" label="Rosario Norte" id="38" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="18">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Rosario Norte</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/RosarioNorte.jpg" alt="Rosario Norte"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Avda. Cerro El Plomo 5630.</b><br /> Loc. 103, Torre 8, Boulevard Nueva Las Condes, Las Condes </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:30hs a 21:00hs.<br /> Sábados y Domingos Cerrado.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br /> Martes 25 Cerrado<br /> Lunes 31 de 07:30hs a 19:00hs<br /> Martes 01 cerrado<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.402008" lng="-70.516023" label="San Carlos de Apoquindo" id="39" Barrio="Las Condes" Desc="" TipoBarrio="5" Seleccion="18">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>San Carlos de Apoquindo</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/SanCarlosApoquino.gif" alt="San Carlos de Apoquindo"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>General Blanche 11860.</b><br /> San Carlos de Apoquindo, Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Viernes de 7:00hs a 21:00hs.<br /> Sábados y Domingos de 8:30hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br /> Martes 25 Cerrado<br /> Lunes 31 de 07:00hs a 19:00hs<br /> Martes 01 de 10:00hs a 21:00hs<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.499212" lng="-70.615654" label="San Joaquín" id="40" Barrio="Macul" Desc="" TipoBarrio="13" Seleccion="28">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>San Joaquín</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/SanJoaquin.jpg" alt="San Joaquín"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Avda. Vicuña Mackenna 4860, Macul.</b><br /> Interior Campus San Joaquín, Patio Biblioteca. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br />  Lunes a viernes 7:00hs a 21:00hs.<br /> Sábados 07:00hs a 18:00hs.<br /> Domingos Cerrado. <!--Cerrado por vacaciones de invierno.--> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br /> Martes 25 Cerrado<br /> Lunes 31 de 07:00hs a 19:00hs<br /> Martes 01 Cerrado<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.017408" lng="-71.557976" label="San Martín" id="41" Barrio="Viña del Mar" Desc="" TipoBarrio="10" Seleccion="29">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>San Martín</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/SanMartin.gif" alt="San Martín"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Cinco Norte 112.</b><br /> Viña del Mar. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a Jueves de 8:00hs a 22:00hs<br /> Viernes de 8:00hs a 22:30 am<br /> Sábados de 8:30hs a 22:30 am<br /> Domingos de 9:00hs a 22:00hs<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 08:00hs a 19:00hs<br /> Martes 25 de 08:30hs a 22:00hs<br /> Lunes 31 de 08:00hs a 19:00hs<br /> Martes 01 de 08:30hs a 21:00hs<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.352548" lng="-70.520508" label="Shopping La Dehesa" id="42" Barrio="Lo Barnechea" Desc="" TipoBarrio="6" Seleccion="28">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Shopping La Dehesa</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/ShoppingLaDehesa.gif" alt="Shopping La Dehesa"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Av. El Rodeo 12850.</b><br /> Local 2, Lo Barnechea. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a viernes 7:30hs a 21:00hs.<br /> Sábados y Domingos 9:00hs a 21:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:30hs a 19:00hs<br /> Martes 25 cerrado<br /> Lunes 31 de 07:30hs a 19:00hs<br /> Martes 01 cerrado<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<marker lat="-33.413004" lng="-70.603316" label="Titanium" id="43" Barrio="Vitacura" Desc="" TipoBarrio="11" Seleccion="28">
+<Info>
+<![CDATA[
+<div class="divGloboTiendaMapa"> <div class="divNombreTienda textoTituloMapa"><b>Titanium</b></div> <div class="divEspacioNombreTienda"></div> <div class="divDescripcionTiendaMapa"> <div class="divRecuadroImagenTienda"><img src="images/Tiendas/Titanium.jpg" alt="Titanium"/></div> <div class="divInfoTiendaMapa textoContenidosV2"> <b>Vitacura 2872.</b><br /> Las Condes. </div> </div> <div class="divEspacioNombreTienda"></div> <div class="divHorariosTiendaMapa textoContenidosV2"> <b>Horarios</b><br /> Lunes a viernes 07:00hs a 22:00hs.<br /> Sábados de 09:00hs a 20:00hs.<br /> Domingos 9:00hs a 18:00hs.<br /> <!--<b>Horarios Fiestas Diciembre</b><br /> Lunes 24 de 07:00hs a 19:00hs<br /> Martes 25 de 10:00hs a 20:00hs<br /> Lunes 31 de 07:00hs a 19:00hs<br /> Martes 01 de 10:00hs a 20:00hs<br />--> </div> </div>
+]]>
+</Info>
+</marker>
+<!--
+<Tiendas>
+    <Tienda Nombre="Aeropuerto Internacional" id="raranguiz@starbucks.cl" ciudad="Santiago" Comuna="Pudahuel"></Tienda>
+    <Tienda Nombre="Aeropuerto Nacional" id="tdonoso@starbucks.cl" ciudad="Santiago" Comuna="Pudahuel"></Tienda>
+    <Tienda Nombre="Agustinas Bandera" id="dpoblete@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Alonso de Cordova" id="msanchez@starbucks.cl" ciudad="Santiago" Comuna="Vitacura"></Tienda>
+    <Tienda Nombre="Alto Las Condes" id="fcastano@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Apoquindo - Hendaya" id="ffajardo@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Arauco Maipú" id="pacosta@starbucks.cl" ciudad="Santiago" Comuna="Maipú"></Tienda>
+    <Tienda Nombre="Ariztia" id="jsuarez@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Barrio Universitario" id="jimuñoz@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Callao" id="cgerken@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Camino de Asis" id="croblero@starbucks.cl" ciudad="Santiago" Comuna="Lo Barnechea"></Tienda>
+    <Tienda Nombre="Clinica Las Condes" id="jtolosa@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Ciudad Empresarial" id="kcarvajal@starbucks.cl" ciudad="Santiago" Comuna="Huechuraba"></Tienda>
+    <Tienda Nombre="Colón" id="jparranz@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Costanera" id="pacosta@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Costanera Center" id="fellwanger@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Espacio M" id="mpcontardo@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Florida Center" id="pbolbaran@starbucks.cl" ciudad="Santiago" Comuna="La Florida"></Tienda>
+    <Tienda Nombre="Huérfanos" id="gbaquedano@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Interamericana" id="salegria@starbucks.cl" ciudad="Santiago" Comuna="Centro"></Tienda>
+    <Tienda Nombre="Isidora - Magdalena" id="mplopez@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Isidora - San Sebastian" id="ademsky@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="La Concepción" id="cbarra@starbucks.cl" ciudad="Santiago" Comuna="Providencia"></Tienda>
+    <Tienda Nombre="La Reina" id="ocardenas@starbucks.cl" ciudad="Santiago" Comuna="La Reina"></Tienda>
+    <Tienda Nombre="Luis Pasteur" id="cespinosa@starbucks.cl" ciudad="Santiago" Comuna="Vitacura"></Tienda>
+    <Tienda Nombre="Lyon" id="aponce@starbucks.cl" ciudad="Santiago" Comuna="Providencia"></Tienda>
+    <Tienda Nombre="Marina Arauco" id="cfigueroa@starbucks.cl" ciudad="VDM" Comuna="Viña del Mar"></Tienda>
+    <Tienda Nombre="Manquehue Norte" id="candrades@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Mirador del Alto" id="mespinosa@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Nueva Costanera" id="eduarte@starbucks.cl" ciudad="Santiago" Comuna="Vitacura"></Tienda>
+    <Tienda Nombre="Nueva Las Condes" id="mgarcia@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Parque Arauco" id="ccano@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="Pedro de Valdivia" id="msotoserrano@starbucks.cl" ciudad="Santiago" Comuna="Providencia"></Tienda>
+    <Tienda Nombre="Plaza Vespucio" id="gbravo@starbucks.cl" ciudad="Santiago" Comuna="La Florida"></Tienda>
+    <Tienda Nombre="Portal La Dehesa" id="srios@starbucks.cl" ciudad="Santiago" Comuna="Lo Barnechea"></Tienda>
+    <Tienda Nombre="Portal Ñuñoa" id="rbelmar@starbucks.cl" ciudad="Santiago" Comuna="Ñuñoa"></Tienda>
+    <Tienda Nombre="Rosario Norte" id="cgamerre@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="San Carlos de Apoquindo" id="cdelano@starbucks.cl" ciudad="Santiago" Comuna="Las Condes"></Tienda>
+    <Tienda Nombre="San Joaquín" id="mjugalde@starbucks.cl" ciudad="Santiago" Comuna="San Joaquín"></Tienda>
+    <Tienda Nombre="San Martín" id="cramirez@starbucks.cl" ciudad="VDM" Comuna="Viña del Mar"></Tienda>
+    <Tienda Nombre="Shopping La Dehesa" id="dperez@starbucks.cl" ciudad="Santiago" Comuna="Lo Barnechea"></Tienda>
+    <Tienda Nombre="Titanium" id="mespinosa@starbucks.cl" ciudad="Santiago" Comuna="Vitacura"></Tienda>    
+  </Tiendas>
+-->
+<CIUDADES>
+<CIUDAD id="01">
+<![CDATA[ Santiago ]]>
+</CIUDAD>
+<CIUDAD id="02">
+<![CDATA[ Viña del Mar ]]>
+</CIUDAD>
+</CIUDADES>
+<COMUNAS>
+<COMUNA id="01" ciudad="01">
+<![CDATA[ Centro ]]>
+</COMUNA>
+<COMUNA id="02" ciudad="01">
+<![CDATA[ Huechuraba ]]>
+</COMUNA>
+<COMUNA id="03" ciudad="01">
+<![CDATA[ La Florida ]]>
+</COMUNA>
+<COMUNA id="04" ciudad="01">
+<![CDATA[ La Reina ]]>
+</COMUNA>
+<COMUNA id="05" ciudad="01">
+<![CDATA[ Las Condes ]]>
+</COMUNA>
+<COMUNA id="06" ciudad="01">
+<![CDATA[ Lo Barnechea ]]>
+</COMUNA>
+<COMUNA id="07" ciudad="01">
+<![CDATA[ Maipú ]]>
+</COMUNA>
+<COMUNA id="08" ciudad="01">
+<![CDATA[ Ñuñoa ]]>
+</COMUNA>
+<COMUNA id="09" ciudad="01">
+<![CDATA[ Providencia ]]>
+</COMUNA>
+<COMUNA id="10" ciudad="01">
+<![CDATA[ Pudahuel ]]>
+</COMUNA>
+<COMUNA id="11" ciudad="01">
+<![CDATA[ San Joaquín ]]>
+</COMUNA>
+<COMUNA id="12" ciudad="01">
+<![CDATA[ Vitacura ]]>
+</COMUNA>
+<COMUNA id="13" ciudad="02">
+<![CDATA[ Viña del Mar ]]>
+</COMUNA>
+</COMUNAS>
+<TIENDAS>
+<!--  Centro  -->
+<TIENDA id="01" comuna="01" mail="dpoblete@starbucks.cl">
+<![CDATA[ Agustinas Bandera ]]>
+</TIENDA>
+<TIENDA id="02" comuna="01" mail="jimuñoz@starbucks.cl">
+<![CDATA[ Barrio Universitario ]]>
+</TIENDA>
+<TIENDA id="03" comuna="01" mail="jsuarez@starbucks.cl">
+<![CDATA[ Edificio Ariztía ]]>
+</TIENDA>
+<TIENDA id="04" comuna="01" mail="mpcontardo@starbucks.cl">
+<![CDATA[ Espacio M ]]>
+</TIENDA>
+<TIENDA id="05" comuna="01" mail="aguzman@starbucks.cl">
+<![CDATA[ Huérfanos ]]>
+</TIENDA>
+<TIENDA id="06" comuna="01" mail="salegria@starbucks.cl">
+<![CDATA[ Interamericana ]]>
+</TIENDA>
+<TIENDA id="07" comuna="01" mail="mlewin@starbucks.cl">
+<![CDATA[ Huérfanos 2 ]]>
+</TIENDA>
+<!--  Fin Centro  -->
+<!--  Huechuraba  -->
+<TIENDA id="08" comuna="02" mail="pgarcia@starbucks.cl">
+<![CDATA[ Ciudad Empresarial ]]>
+</TIENDA>
+<!--  Fin Huechuraba  -->
+<!--  La Florida  -->
+<TIENDA id="09" comuna="03" mail="pbolbaran@starbucks.cl">
+<![CDATA[ Florida Center ]]>
+</TIENDA>
+<TIENDA id="10" comuna="03" mail="gbravo@starbucks.cl">
+<![CDATA[ Plaza Vespucio ]]>
+</TIENDA>
+<!--  Fin La Florida  -->
+<!--  La Reina  -->
+<TIENDA id="11" comuna="04" mail="ocardenas@starbucks.cl">
+<![CDATA[ La Reina ]]>
+</TIENDA>
+<!--  Fin La Reina  -->
+<!--  Las Condes  -->
+<TIENDA id="12" comuna="05" mail="abravo@starbucks.cl">
+<![CDATA[ Alto Las Condes ]]>
+</TIENDA>
+<TIENDA id="13" comuna="05" mail="ffajardo@starbucks.cl">
+<![CDATA[ Apoquindo ]]>
+</TIENDA>
+<TIENDA id="14" comuna="05" mail="cgerken@starbucks.cl">
+<![CDATA[ Callao ]]>
+</TIENDA>
+<TIENDA id="15" comuna="05" mail="jtolosa@starbucks.cl">
+<![CDATA[ Clinica Las Condes ]]>
+</TIENDA>
+<TIENDA id="16" comuna="05" mail="jparranz@starbucks.cl">
+<![CDATA[ Colón ]]>
+</TIENDA>
+<TIENDA id="17" comuna="05" mail="pacosta@starbucks.cl">
+<![CDATA[ Costanera ]]>
+</TIENDA>
+<TIENDA id="18" comuna="05" mail="fellwanger@starbucks.cl">
+<![CDATA[ Costanera Center ]]>
+</TIENDA>
+<TIENDA id="19" comuna="05" mail="ademsky@starbucks.cl">
+<![CDATA[ Isidora - San Sebastian ]]>
+</TIENDA>
+<TIENDA id="20" comuna="05" mail="fcastano@starbucks.cl">
+<![CDATA[ Isidora - Magdalena ]]>
+</TIENDA>
+<TIENDA id="21" comuna="05" mail="candrades@starbucks.cl">
+<![CDATA[ Manquehue Norte ]]>
+</TIENDA>
+<TIENDA id="22" comuna="05" mail="croblero@starbucks.cl">
+<![CDATA[ Mirador del Alto ]]>
+</TIENDA>
+<TIENDA id="23" comuna="05" mail="bsepulveda@starbucks.cl">
+<![CDATA[ Nueva Las Condes ]]>
+</TIENDA>
+<TIENDA id="24" comuna="05" mail="ccano@starbucks.cl">
+<![CDATA[ Parque Arauco ]]>
+</TIENDA>
+<TIENDA id="25" comuna="05" mail="ctrujillo@starbucks.cl">
+<![CDATA[ Plaza San Carlos ]]>
+</TIENDA>
+<TIENDA id="26" comuna="05" mail="cdelano@starbucks.cl">
+<![CDATA[ San Carlos de Apoquindo ]]>
+</TIENDA>
+<TIENDA id="27" comuna="05" mail="cgamerre@starbucks.cl">
+<![CDATA[ Rosario Norte ]]>
+</TIENDA>
+<TIENDA id="28" comuna="05" mail="mlewin@starbucks.cl">
+<![CDATA[ Costanera Center 2 ]]>
+</TIENDA>
+<TIENDA id="29" comuna="05" mail="mlewin@starbucks.cl">
+<![CDATA[ Patio Enrique Foster ]]>
+</TIENDA>
+<!--  Fin Las Condes  -->
+<!--  Lo Barnechea  -->
+<TIENDA id="30" comuna="06" mail="mcabezas@starbucks.cl">
+<![CDATA[ Camino de Asis ]]>
+</TIENDA>
+<TIENDA id="31" comuna="06" mail="srios@starbucks.cl">
+<![CDATA[ Portal La Dehesa ]]>
+</TIENDA>
+<TIENDA id="32" comuna="06" mail="dperez@starbucks.cl">
+<![CDATA[ Shopping La Dehesa ]]>
+</TIENDA>
+<TIENDA id="33" comuna="06" mail="mlewin@starbucks.cl">
+<![CDATA[ Universidad Andrés Bello ]]>
+</TIENDA>
+<!--  Fin Lo Barnechea  -->
+<!--  Maipú  -->
+<TIENDA id="34" comuna="07" mail="omartinez@starbucks.cl">
+<![CDATA[ Arauco Maipú ]]>
+</TIENDA>
+<!--  Fin Maipú  -->
+<!--  Portal Ñuñoa  -->
+<TIENDA id="35" comuna="08" mail="rbelmar@starbucks.cl">
+<![CDATA[ Portal Ñuñoa ]]>
+</TIENDA>
+<!--  Fin Portal Ñuñoa  -->
+<!--  Providencia  -->
+<TIENDA id="36" comuna="09" mail="cbarra@starbucks.cl">
+<![CDATA[ La Concepción ]]>
+</TIENDA>
+<TIENDA id="37" comuna="09" mail="msotoserrano@starbucks.cl">
+<![CDATA[ Pedro de Valdivia ]]>
+</TIENDA>
+<TIENDA id="38" comuna="09" mail="aponce@starbucks.cl">
+<![CDATA[ Lyon ]]>
+</TIENDA>
+<TIENDA id="39" comuna="09" mail="mlewin@starbucks.cl">
+<![CDATA[ Territoria ]]>
+</TIENDA>
+<!--  Fin Providencia  -->
+<!--  Pudahuel  -->
+<TIENDA id="40" comuna="10" mail="raranguiz@starbucks.cl">
+<![CDATA[ Aeropuerto Internacional ]]>
+</TIENDA>
+<TIENDA id="41" comuna="10" mail="gbaquedano@starbucks.cl">
+<![CDATA[ Aeropuerto Nacional ]]>
+</TIENDA>
+<!--  Fin Pudahuel  -->
+<!--  San Joaquín  -->
+<TIENDA id="42" comuna="11" mail="arubilar@starbucks.cl">
+<![CDATA[ San Joaquín ]]>
+</TIENDA>
+<!--  Fin San Joaquín  -->
+<!--  Vitacura  -->
+<TIENDA id="43" comuna="12" mail="msanchez@starbucks.cl">
+<![CDATA[ Alonso de Cordova ]]>
+</TIENDA>
+<TIENDA id="44" comuna="12" mail="cespinosa@starbucks.cl">
+<![CDATA[ Luis Pasteur ]]>
+</TIENDA>
+<TIENDA id="45" comuna="12" mail="eduarte@starbucks.cl">
+<![CDATA[ Nueva Costanera ]]>
+</TIENDA>
+<TIENDA id="46" comuna="12" mail="mespinosa@starbucks.cl">
+<![CDATA[ Titanium ]]>
+</TIENDA>
+<!--  Fin Vitacura  -->
+<!--  Viña del Mar  -->
+<TIENDA id="47" comuna="13" mail="cfigueroa@starbucks.cl">
+<![CDATA[ Marina Arauco ]]>
+</TIENDA>
+<TIENDA id="48" comuna="13" mail="cramirez@starbucks.cl">
+<![CDATA[ San Martín ]]>
+</TIENDA>
+<!--  Fin Viña del Mar  -->
+</TIENDAS>
+</markers>

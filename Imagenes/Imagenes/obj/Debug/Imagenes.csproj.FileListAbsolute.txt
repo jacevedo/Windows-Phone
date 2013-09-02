@@ -1,0 +1,13 @@
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\ApplicationIcon.png
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\Background.png
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\Imagenes.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\Imagenes.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\Bin\Debug\Imagenes.xap
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.csprojResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Imagenes\Imagenes\obj\Debug\XapCacheFile.xml

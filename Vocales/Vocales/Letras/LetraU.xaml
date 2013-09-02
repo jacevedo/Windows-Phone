@@ -1,0 +1,89 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Vocales.Letras.LetraU"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+	
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Canvas x:Name="LayoutRoot" Background="Transparent">
+        <Canvas.Resources>
+            <Storyboard x:Name="Uva">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgUva">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="-0.01"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="19.116"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="-17.331"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="0.372"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Uno">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgUno">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="-0.061"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-20.462"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="19.14"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.4" Value="0.329"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="televisor">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgTele">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.216"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-16.581"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="26.023"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.4" Value="0.092"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="globo">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgGlobo">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.622"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-17.894"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="23.337"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.176"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="Helado">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgHelado">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="-0.385"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-30.289"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="24.966"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.153"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+        </Canvas.Resources>
+            <Image x:Name="imgGlobo" Height="168" Canvas.Left="203" Source="/imagenes/LetraU/globo.png" Stretch="Fill" Canvas.Top="298" Width="126" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+    	<Image x:Name="imgHelado" Height="177" Canvas.Left="285" Source="/imagenes/LetraU/helado.png" Stretch="Fill" Canvas.Top="39" Width="146" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+    	<Image x:Name="imgTele" Height="243" Canvas.Left="239" Source="/imagenes/LetraU/televisor.png" Stretch="Fill" Canvas.Top="490" Width="227" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+    	<Image x:Name="imgUno" Height="248" Canvas.Left="27" Source="/imagenes/LetraU/uno.png" Stretch="Fill" Canvas.Top="488" Width="161" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+    	<Image x:Name="imgUva" Height="200" Canvas.Left="20" Source="/imagenes/LetraU/uva.png" Stretch="Fill" Canvas.Top="44" Width="200" RenderTransformOrigin="0.5,0.5">
+    		<Image.RenderTransform>
+    			<CompositeTransform/>
+    		</Image.RenderTransform>
+    	</Image>
+      
+    </Canvas>
+
+</phone:PhoneApplicationPage>

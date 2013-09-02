@@ -1,0 +1,16 @@
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\Lector Codigos.csprojResolveAssemblyReference.cache
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\App.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\MainPage.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\Lector Codigos.g.resources
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\ApplicationIcon.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\Background.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\Lector Codigos.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\Lector Codigos.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\AppManifest.xaml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\Lector_Codigos.xap
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\zxing.wp7.1.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\zxing.wp7.1.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\Bin\Debug\zxing.wp7.1.xml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\Lector Codigos.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\Lector Codigos.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Lector Codigos\Lector Codigos\obj\Debug\XapCacheFile.xml

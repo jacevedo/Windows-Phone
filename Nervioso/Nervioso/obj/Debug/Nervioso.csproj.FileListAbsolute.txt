@@ -1,0 +1,13 @@
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\ApplicationIcon.png
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\Background.png
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\Nervioso.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\Nervioso.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\AppManifest.xaml
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\Bin\Debug\Nervioso.xap
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\Nervioso.csprojResolveAssemblyReference.cache
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\App.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\MainPage.g.cs
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\Nervioso.g.resources
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\Nervioso.dll
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\Nervioso.pdb
+c:\users\jaime\documents\visual studio 2012\Projects\Nervioso\Nervioso\obj\Debug\XapCacheFile.xml

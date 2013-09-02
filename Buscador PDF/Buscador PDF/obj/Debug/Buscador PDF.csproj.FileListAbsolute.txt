@@ -1,0 +1,13 @@
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\ApplicationIcon.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\Background.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\Buscador PDF.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\Buscador PDF.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\AppManifest.xaml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\Bin\Debug\Buscador_PDF.xap
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\Buscador PDF.csprojResolveAssemblyReference.cache
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\App.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\MainPage.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\Buscador PDF.g.resources
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\Buscador PDF.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\Buscador PDF.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\Buscador PDF\Buscador PDF\obj\Debug\XapCacheFile.xml
