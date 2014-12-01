@@ -1,4 +1,4 @@
-AppsFundacionChile
+Windows Phone Apps
 ==================
 
-Mis app en fundacion chile
+Aplicaciones Windows Phone
